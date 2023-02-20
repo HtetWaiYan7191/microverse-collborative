@@ -1,0 +1,86 @@
+#header {
+    color: blue;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 50px;
+}
+
+#header-img {
+    height: 50px;
+    width: 50px;
+}
+
+#title {
+    margin-left: 15px;
+}
+
+.nav-bar {
+    display: flex;
+    justify-content: space-around;
+    margin-right: 50px;
+}
+
+.logoAndName {
+    display: flex;
+}
+
+.nav-element {
+    margin-right: 20px;
+    text-decoration: none;
+}
+
+.container {
+    margin: 0px auto;
+    width: 50%;
+}
+
+#text {
+    margin-top: 10px;
+}
+
+.email-form {
+    margin-top: 10px;
+}
+
+#form {}
+
+.get-started {
+    background-color: yellow;
+    width: 150px;
+    margin-top: 10px;
+    font-weight: bold;
+}
+
+#submitBtn {
+    margin-top: 10px;
+}
+
+.video-container {
+    height: 200px;
+    width: 300px;
+}
+
+.card-section {
+    display: flex;
+}
+
+.card-title {
+    background-color: grey;
+    padding: 10px;
+}
+
+.card {
+    border: 1px solid black;
+    margin-right: 10px;
+    padding: 10px;
+    text-align: center;
+}
+
+.select {
+    background-color: yellow;
+    padding: 10px;
+}
+
+.icons-text {
+    display: flex;
+}
